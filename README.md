@@ -1,7 +1,9 @@
-i am b1
+# learning-github
+i am learning git and github
+<br>
+i am priyanshu
+<br>
+<br>
+this is the main branch
 
-this is my second commit
 
-heloooooooooo after merging
-
-second commit
